@@ -8,7 +8,7 @@ handler.help = ['tagall']
 handler.tags = ['group']
 handler.command = /^tagall$/i
 
-handler.admin = true
+handler.admin = false
 handler.group = true
 
 module.exports = handler
